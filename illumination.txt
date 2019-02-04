@@ -1,0 +1,15 @@
+illumination: dusk
+	minor : 121
+	major : 18
+	critical : 80
+	medium : 32
+illumination: night
+	minor : 122
+	major : 345
+	critical : 191
+	medium : 335
+illumination: day
+	critical : 153
+	major : 304
+	minor : 116
+	medium : 422

@@ -1,0 +1,15 @@
+roadType: country
+	major : 256
+	minor : 125
+	critical : 87
+	medium : 218
+roadType: urban
+	minor : 105
+	critical : 244
+	major : 151
+	medium : 362
+roadType: highway
+	minor : 129
+	major : 260
+	critical : 93
+	medium : 209

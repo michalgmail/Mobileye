@@ -1,0 +1,30 @@
+country: Sweden
+	minor : 76
+	major : 98
+	critical : 59
+	medium : 140
+country: UK
+	major : 99
+	critical : 51
+	minor : 69
+	medium : 154
+country: Italy
+	critical : 140
+	major : 155
+	minor : 5
+	medium : 73
+country: France
+	minor : 61
+	major : 98
+	critical : 60
+	medium : 154
+country: US
+	major : 105
+	minor : 71
+	critical : 61
+	medium : 136
+country: Germany
+	minor : 77
+	major : 112
+	critical : 53
+	medium : 132

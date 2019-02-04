@@ -1,0 +1,19 @@
+driverName: George
+	critical : 85
+	major : 183
+	minor : 122
+	medium : 170
+driverName: John
+	minor : 114
+	major : 166
+	critical : 83
+	medium : 197
+driverName: Ringo
+	major : 135
+	critical : 194
+	medium : 230
+driverName: Paul
+	minor : 123
+	major : 183
+	critical : 62
+	medium : 192
